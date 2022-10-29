@@ -1,0 +1,10 @@
+/* 项目公共样式处理 */
+a {
+  text-decoration: none;
+}
+
+.el-pagination { 
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
